@@ -1,20 +1,37 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3500&pause=700&color=58A6FF&center=true&vCenter=true&width=780&lines=🤖+𝗚𝗼𝗮𝘁+𝗕𝗼𝘁+𝗩2;⚡+𝗡𝗲𝘅𝘁-𝗚𝗲𝗻+𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿+𝗕𝗼𝘁" alt="Typing SVG" />
-  
-  <p align="center">
-    Custom Modified By <b>EryxenX </b>
-  </p>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Version-2.0.0-00FFD1?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-20.x-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-  </p>
-  
-  <p align="center">
-    🚀 Fast • 🤖 Smart • 🛡️ Reliable
-  </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=3500&pause=700&color=58A6FF&center=true&vCenter=true&width=800&lines=🐐+GOAT+MESSENGER;⚡+Facebook+Messenger+Bot+Framework;🛠️+Modified+by+EryXenX" alt="Typing SVG" />
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-2.0.0-00FFD1?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-20.x-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based_on-Goat_Bot_V2-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fork_by-EryXenX-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">🚀 Fast &nbsp;•&nbsp; 🤖 Smart &nbsp;•&nbsp; 🛡️ Reliable &nbsp;•&nbsp; 🐐 Powerful</p>
+
 </div>
+
+---
+
+> ⚠️ **IMPORTANT ATTRIBUTION NOTICE**
+>
+> This project is a **custom fork** based on the fork chain below.
+> All original copyright belongs to **NTKhang (ntkhang03)**.
+> This repository preserves and respects the original license in full.
+
+---
+
+## 🔗 Fork Chain
+
+```
+ntkhang03  (Original Creator — Goat Bot V2)
+    └── NeoKEX  (Goatbot-updated — 1st fork)
+            └── EryXenX  (GOAT-MESSENGER — 2nd fork / this repo)
+```
 
 ---
 
@@ -28,27 +45,31 @@
 
 ---
 
-## 📌 About Goat Bot V2
+## 📌 About This Fork
 
-**Goat Bot V2** is a Facebook Messenger automation bot designed for:
+**GOAT MESSENGER** is a custom-modified fork of [NeoKEX/Goatbot-updated](https://github.com/NeoKEX/Goatbot-updated), which itself is a fork of the original [Goat Bot V2](https://github.com/ntkhang03/Goat-Bot-V2) by **ntkhang03**.
 
-- 📋 Group management
-- 🤖 Auto reply system
-- 🎮 Entertainment commands
-- ⚙️ Custom automation features
+This fork adds personal configurations and improvements on top of the existing fork chain.
 
-> ⚠️ This repository is a **modified educational fork** maintained by **EryXenX**.
+### What This Fork Adds (by EryXenX):
+- 🎨 Custom UI configurations
+- ⚙️ Modified command handling
+- 🔧 Personal automation tweaks
+- 📦 Additional utility commands
+
+> The core engine, architecture, and all original features are entirely the work of **ntkhang03**.
 
 ---
 
 ## ⚙️ Framework Details
 
-| Component          | Description                      |
-| ------------------ | -------------------------------- |
-| **Based on**       | Goat Bot V2                      |
-| **Platform**       | Facebook Messenger               |
-| **Language**       | Node.js                          |
-| **Edition**        | Custom Modified                  |
+| Component              | Description                                                              |
+| ---------------------- | ------------------------------------------------------------------------ |
+| **Original Creator**   | [ntkhang03](https://github.com/ntkhang03/Goat-Bot-V2)                    |
+| **Intermediate Fork**  | [NeoKEX/Goatbot-updated](https://github.com/NeoKEX/Goatbot-updated)     |
+| **This Fork**          | [EryXenX/GOAT-MESSENGER](https://github.com/EryXenX/GOAT-MESSENGER)     |
+| **Platform**           | Facebook Messenger                                                       |
+| **Language**           | Node.js 20.x                                                             |
 
 ---
 
@@ -68,6 +89,10 @@
       <td align="center">🌍 Multi-language Support</td>
       <td align="center">⚡ Fast & Lightweight</td>
     </tr>
+    <tr>
+      <td align="center">📊 Web Dashboard</td>
+      <td align="center">🔒 Secure Login System</td>
+    </tr>
   </table>
 </div>
 
@@ -85,44 +110,57 @@
 
 ---
 
-## 🌐 Connect With Developer
+## 🌐 Connect With Fork Maintainer (EryXenX)
 
 <p align="center">
   <a href="https://facebook.com/EryXenX">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-
   <a href="https://t.me/EryXenX">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-
   <a href="https://youtube.com/@EryXenX">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-
   <a href="https://instagram.com/EryXenX">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/EryXenX">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ⚠️ Credits
+## ✅ Full Credits & Attribution
 
-**Original Project:** [Goat Bot V2](https://github.com/ntkhang03/Goat-Bot-V2) by **ntkhang03**  
-All core credits belong to the original developer.
+| Role | Person | Link |
+|------|--------|------|
+| 🏆 **Original Creator** | NTKhang (ntkhang03) | [Goat Bot V2](https://github.com/ntkhang03/Goat-Bot-V2) |
+| 🔀 **Intermediate Fork** | NeoKEX | [Goatbot-updated](https://github.com/NeoKEX/Goatbot-updated) |
+| 🔧 **This Fork** | EryXenX | [GOAT-MESSENGER](https://github.com/EryXenX/GOAT-MESSENGER) |
 
-This repository contains **educational custom modifications only**.
+> All core copyright and intellectual property belongs to **NTKhang (ntkhang03)**.
+
+---
+
+## 📄 License
+
+This project follows the original license set by **NTKhang**. See [LICENSE](./LICENSE) for full terms.
+Fork modifications do not override or replace the original license.
 
 ---
 
 ## 🔒 Disclaimer
 
-> This project is for **educational purposes only**.  
-> The developer is not responsible for any misuse.
+> This project is for **educational and personal use only**.
+> The fork maintainer (EryXenX) is not responsible for any misuse.
+> Always respect the original developer's work and contribution guidelines.
 
 ---
 
 <div align="center">
-  ❤️ Respect Open Source Developers.
+  ❤️ Built on the shoulders of giants. Respect Open Source. Credit your sources.
+  <br/><br/>
+  <b>Original Work © NTKhang (ntkhang03) &nbsp;|&nbsp; Fork Chain: NeoKEX → EryXenX</b>
 </div>
